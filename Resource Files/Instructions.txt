@@ -1,0 +1,18 @@
+Welcome to the Instructions Page!
+ • There are four different types of rooms within this game. Monster, empty, treasure and upgrade. With treasure being the final room to end the game.
+  • You must generate five rooms in total within this game consisting of: 1, empty, 1 upgrade, 2 monster and 1 treasure.
+
+  How to go through the Dungeon:
+• The player (Monk) will begin with 15 Health Points and 3 Attack Points.
+• Player can customise the Monk with a unique name and description.
+• When in the Empty (Prayer) room, player can have the ability to restore their health to full.
+• Upgrade Room - This room will be optional for players, when in here players can increase the Maximum Capacity of Health Points the monk has by 5 OR increase the Monk Attack Points by 2.
+
+How combat will function:
+• The game is based upon turn based combat.
+• The player has one turn and the monster has one turn, with a success or failure rate of 50%.
+• Successful Attack - A successful attack will reduce the health points of the opponent
+• Successful Defence - Will allow for the player or opponent to recover 1 Health Point.
+
+End Game:
+• If successful in defeating the Monsters, the final room will be a Treasure Room, OR if the player(Monk) has Health Points <= 0, the game will end here and the player will have to start again.
